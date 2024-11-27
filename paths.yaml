@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/hnoguchi/hnoguchi-2024-11-27-17/:/
+ - /content/hnoguchi/hnoguchi-2024-11-27-17/metadata.json:/metadata.json
+ - /content/hnoguchi/hnoguchi-2024-11-27-17/redirects.json:/redirects.json
